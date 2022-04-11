@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bmchin
 - 👀 I’m interested in computer science, space, and ethereum
-- 🌱 I’m currently learning Python, Java, and Solidity
+- 🌱 I’m currently learning Python, Java, C, and Solidity
 - 💞️ I’m looking to collaborate on any projects that help refine my programming skills
 - 📫 How to reach me: bmchin@seas.upenn.edu
 
